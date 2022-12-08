@@ -1,0 +1,7 @@
+﻿  InkPrinter.cpp
+  LaserPrinter.cpp
+  main.cpp
+D:\3-2 모던 C++\ch8\q08\main.cpp(31,3): warning C4102: 'defalt': 참조되지 않은 레이블입니다.
+  Printer.cpp
+  코드를 생성하고 있습니다...
+  q08.vcxproj -> D:\3-2 모던 C++\ch8\x64\Debug\q08.exe
